@@ -10,7 +10,7 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
 ### 🧐 More About Me:  
 
-![Python Coding GIF](https://media.giphy.com/media/xUOwGcfR9dO6pX1P1K/giphy.gif)
+![Python Coding GIF]([https://media.giphy.com/media/xUOwGcfR9dO6pX1P1K/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk4YmN5MmJpdHFrNjZ3enA0MHF5ZTk1dms2NTBuMGg1b3c2N3VqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif))
 
 - 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project  
 - 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**  
