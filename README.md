@@ -1,12 +1,12 @@
 ## Hey 👋, I'm Omar Ahmed!  
 
-<a href='https://www.linkedin.com/in/omar-ahmed/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/omar2023k'><img align='left' alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/kaggle.svg" height='18px'/></a>
-<a href='https://github.com/Omar2023K'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?logo=linkedin)](https://www.linkedin.com/in/omar-ahmed/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Omar2023K-orange?logo=kaggle)](https://www.kaggle.com/omar2023k)
+[![GitHub](https://img.shields.io/badge/GitHub-Omar2023K-black?logo=github)](https://github.com/Omar2023K)
 
-I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions. I love exploring new tools and technologies to solve real-world problems.  
+I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions. I love exploring new tools and technologies to solve real-world problems.
 
-<br/><br/>
+---
 
 ### 🧐 More About Me:  
 
@@ -18,31 +18,30 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
 - 📝 &nbsp; Checkout my [resume](#)  
 
-<br/>
+---
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Pandas" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pandas/pandas.svg"></a>
-<a href="https://numpy.org/" target="_blank"><img align="left" alt="Numpy" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/numpy/numpy.svg"></a>
-<a href="https://matplotlib.org/" target="_blank"><img align="left" alt="Matplotlib" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/matplotlib/matplotlib.svg"></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img align="left" alt="Seaborn" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/seaborn/seaborn.svg"></a>
-<a href="https://scikit-learn.org/" target="_blank"><img align="left" alt="Scikit-learn" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/scikit-learn/scikit-learn.svg"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img align="left" alt="TensorFlow" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"></a>
-<a href="https://pytorch.org/" target="_blank"><img align="left" alt="PyTorch" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+[![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white)](https://seaborn.pydata.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
-<br/>
+---
 
 ### 📊 Github Stats
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=Omar2023K&show_icons=true&hide_title=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar2023K&layout=compact)
 
-<br/>
+---
 
 ### 🛠️ My Projects
-<a href="https://github.com/Omar2023K/Udemy_courses_analysis" target="_blank"><img alt="Udemy Analysis" src="./projects/udemy.svg" height="68" align="left"></a>
-<a href="https://github.com/Omar2023K/web-scraping" target="_blank"><img alt="Web Scraping" src="./projects/webscraping.svg"  height="68" align="left"></a>
-<a href="https://github.com/Omar2023K/Cars-price-prediction" target="_blank"><img alt="Cars Price Prediction" src="./projects/carsprediction.svg" height="68" align="left"></a>
-<a href="https://github.com/Omar2023K/Tesla-Stock-Forecasting" target="_blank"><img alt="Tesla Stock Forecasting" src="./projects/tesla.svg" height="68" align="left"></a>
-<a href="https://github.com/Omar2023K/MentAssist-Chatbot" target="_blank"><img alt="MentAssist Chatbot" src="./projects/chatbot.svg" height="68" align="left"></a>
-
+[![Udemy Analysis](https://img.shields.io/badge/Udemy-Analysis-blue?style=flat-square)](https://github.com/Omar2023K/Udemy_courses_analysis)
+[![Web Scraping](https://img.shields.io/badge/Web-Scraping-green?style=flat-square)](https://github.com/Omar2023K/web-scraping)
+[![Cars Price Prediction](https://img.shields.io/badge/Cars-Price_Prediction-orange?style=flat-square)](https://github.com/Omar2023K/Cars-price-prediction)
+[![Tesla Stock Forecasting](https://img.shields.io/badge/Tesla-Stock_Forecasting-red?style=flat-square)](https://github.com/Omar2023K/Tesla-Stock-Forecasting)
+[![MentAssist Chatbot](https://img.shields.io/badge/MentAssist-Chatbot-purple?style=flat-square)](https://github.com/Omar2023K/MentAssist-Chatbot)
