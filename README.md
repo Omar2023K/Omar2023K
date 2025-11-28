@@ -17,7 +17,7 @@ With a strong foundation in data preprocessing, visualization, and predictive mo
 - 👨🏻‍💻  Most of my projects are available on [Github](httpsgithub.comOmar2023Ktab=repositories)  
 - 💬 Ask me about **Python, ML, NLP, Data Analysis**  
 - 📫 Ping me on [LinkedIn](https://www.linkedin.com/in/omarkhaleds/)  
-- 📝 Checkout my [resume](#)
+- 📝 Checkout my [resume](https://drive.google.com/file/d/10tYjeOzeEEWvOd8yn6r1SG808jRM5Ebi/view)
 
     </td>
     <td>
