@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
 
-<h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Omar2023K-orange?logo=kaggle&logoColor=white)](https://www.kaggle.com/omar2023k)
