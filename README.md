@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?logo=linkedin)](https://www.linkedin.com/in/omar-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Omar2023K-orange?logo=kaggle)](https://www.kaggle.com/omar2023k)
 [![GitHub](https://img.shields.io/badge/GitHub-Omar2023K-black?logo=github)](https://github.com/Omar2023K)
@@ -11,27 +10,19 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
 ### 🧐 More About Me:
 
-<table>
-  <tr>
-    <td>
-
 - 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project  
 - 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**  
 - 🌱 &nbsp; I’m currently learning **Deep Learning & Advanced NLP**  
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
 - 💬 &nbsp; Ask me about **Python, ML, NLP, Data Analysis**  
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
-- 📝 &nbsp; Checkout my [resume](#)
+- 📝 &nbsp; Checkout my [resume](#)  
 
-    </td>
-    <td>
-      <img src="./giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330">
+</p>
 
-
-
+---
 
 ### 🔨 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
