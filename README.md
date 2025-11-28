@@ -10,7 +10,11 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
 ### 🧐 More About Me:  
 
-![Coding GIF](./giphy.gif)
+### 🧐 More About Me:  
+
+<p align="right">
+  <img src="./giphy.gif" alt="Coding GIF" width="250"/>
+</p>
 
 - 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project  
 - 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**  
@@ -20,7 +24,6 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
 - 📝 &nbsp; Checkout my [resume](#)  
 
----
 
 ### 🔨 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
