@@ -8,20 +8,28 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
 ---
 
+<table>
+  <tr>
+    <td>
+
+I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
+I love exploring new tools and technologies to solve real-world problems.
+
 ### 🧐 More About Me:
+- 🔭 I’m currently working on **Healthcare Predictive Analytics** project  
+- 🤝 I’m looking to collaborate on interesting **ML / AI projects**  
+- 🌱 I’m currently learning **Deep Learning & Advanced NLP**  
+- 👨🏻‍💻 Most of my projects are available on Github  
+- 💬 Ask me about **Python, ML, NLP, Data Analysis**  
+- 📫 Ping me on LinkedIn  
+- 📝 Checkout my resume
 
-- 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project  
-- 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**  
-- 🌱 &nbsp; I’m currently learning **Deep Learning & Advanced NLP**  
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
-- 💬 &nbsp; Ask me about **Python, ML, NLP, Data Analysis**  
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
-- 📝 &nbsp; Checkout my [resume](#)  
-
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330">
-</p>
-
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🔨 Languages and Tools:
