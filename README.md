@@ -11,9 +11,9 @@ With a strong foundation in data preprocessing, visualization, and predictive mo
     <td>
 
 ### 🧐 More About Me:
--  🔭 I’m currently working on personal **Data Analytics** projects, including **Healthcare Predictive Analytics** and **Business Intelligence**. 
-- 🤝 I’m looking to collaborate on interesting **ML / AI projects**  
-- 🌱 I’m currently learning **Deep Learning & Advanced NLP**  
+-  🔭 I’m currently working on personal **Data Analytics** projects, including ** Predictive Analytics** and **Business Intelligence**. 
+-  🤝 I’m eager to collaborate on **Machine Learning** and **AI-driven projects** that focus on generating **data-driven insights** and solving real-world challenges.
+- 🌱 I’m actively learning **Deep Learning** and exploring **Advanced Natural Language Processing (NLP)** to apply these technologies in solving business problems.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
 - 💬 Ask me about **Python, ML, NLP, Data Analysis**  
 - 📫 Ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
