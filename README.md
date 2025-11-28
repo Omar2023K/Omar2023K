@@ -52,8 +52,15 @@ I love exploring new tools and technologies to solve real-world problems.
 ---
 
 ### 🛠️ My Projects
+### 🛠️ My Projects
 [![Udemy Analysis](https://img.shields.io/badge/Udemy-Analysis-blue?style=flat-square)](https://github.com/Omar2023K/Udemy_courses_analysis)
 [![Web Scraping](https://img.shields.io/badge/Web-Scraping-green?style=flat-square)](https://github.com/Omar2023K/web-scraping)
 [![Cars Price Prediction](https://img.shields.io/badge/Cars-Price_Prediction-orange?style=flat-square)](https://github.com/Omar2023K/Cars-price-prediction)
 [![Tesla Stock Forecasting](https://img.shields.io/badge/Tesla-Stock_Forecasting-red?style=flat-square)](https://github.com/Omar2023K/Tesla-Stock-Forecasting)
 [![MentAssist Chatbot](https://img.shields.io/badge/MentAssist-Chatbot-purple?style=flat-square)](https://github.com/Omar2023K/MentAssist-Chatbot)
+
+[![Hospital Waitlist Dashboard](https://img.shields.io/badge/Hospital_Waitlist-Dashboard-9cf?style=flat-square)](https://github.com/Omar2023K/Hospital-Waitlist-Performance-Dashboard)
+[![Road Accident Analysis](https://img.shields.io/badge/Road_Accident-Dashboard-brown?style=flat-square)](https://github.com/Omar2023K/Road-Accident-DASH)
+[![Blinkit Sales Analysis](https://img.shields.io/badge/Blinkit-Sales_Analysis-yellow?style=flat-square)](https://github.com/Omar2023K/Blinkit-Sales)
+[![Customer Shipping Dashboard](https://img.shields.io/badge/Customer_Shipping-Dashboard-teal?style=flat-square)](https://github.com/Omar2023K/Customer-Shipping-Dashboard)
+
