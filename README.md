@@ -11,7 +11,7 @@ With a strong foundation in data preprocessing, visualization, and predictive mo
     <td>
 
 ### 🧐 More About Me:
-- 🔭 I’m currently working on **Healthcare Predictive Analytics** project  
+-  🔭 I’m currently working on personal **Data Analytics** projects, including **Healthcare Predictive Analytics** and **Business Intelligence**. 
 - 🤝 I’m looking to collaborate on interesting **ML / AI projects**  
 - 🌱 I’m currently learning **Deep Learning & Advanced NLP**  
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
