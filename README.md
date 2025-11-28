@@ -33,11 +33,10 @@ I love exploring new tools and technologies to solve real-world problems.
 
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border:none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
     </td>
   </tr>
 </table>
-
 
 ### 🔨 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
