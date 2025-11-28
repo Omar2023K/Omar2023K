@@ -10,19 +10,22 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
 ### 🧐 More About Me:  
 
-### 🧐 More About Me:  
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div style="flex: 1;">
+    - 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project<br>
+    - 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**<br>
+    - 🌱 &nbsp; I’m currently learning **Deep Learning & Advanced NLP**<br>
+    - 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/Omar2023K?tab=repositories">Github</a><br>
+    - 💬 &nbsp; Ask me about **Python, ML, NLP, Data Analysis**<br>
+    - 📫 &nbsp; Feel free to ping me on <a href="https://www.linkedin.com/in/omar-ahmed/">LinkedIn</a><br>
+    - 📝 &nbsp; Checkout my <a href="#">resume</a>
+  </div>
 
-<p align="right">
-  <img src="./giphy.gif" alt="Coding GIF" width="250"/>
-</p>
+  <img src="./giphy.gif" alt="Coding GIF" width="250" style="margin-left: 20px;"/>
 
-- 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project  
-- 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**  
-- 🌱 &nbsp; I’m currently learning **Deep Learning & Advanced NLP**  
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
-- 💬 &nbsp; Ask me about **Python, ML, NLP, Data Analysis**  
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
-- 📝 &nbsp; Checkout my [resume](#)  
+</div>
+
 
 
 ### 🔨 Languages and Tools:
