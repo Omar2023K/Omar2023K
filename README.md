@@ -1,22 +1,14 @@
-<h1 align="center" style="
-  font-size: 45px;
-  font-weight: bold;
-  animation: bounce 1.2s infinite;
-">
-  Hey 👋, I'm Omar Ahmed!
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Omar+Ahmed!;Data+Scientist+%7C+ML+Engineer;Welcome+To+My+Profile" />
+</p>
 
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-15px); }
-}
-</style>
-
-
+<p align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ahmed/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Omar2023K-orange?logo=kaggle&logoColor=white)](https://www.kaggle.com/omar2023k)
 [![GitHub](https://img.shields.io/badge/GitHub-Omar2023K-black?logo=github&logoColor=white)](https://github.com/Omar2023K)
+
+</p>
 
 I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
 I love exploring new tools and technologies to solve real-world problems.
@@ -26,7 +18,6 @@ I love exploring new tools and technologies to solve real-world problems.
 <table>
   <tr>
     <td>
-
 
 ### 🧐 More About Me:
 - 🔭 I’m currently working on **Healthcare Predictive Analytics** project  
