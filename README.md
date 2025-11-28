@@ -30,6 +30,7 @@ I love exploring new tools and technologies to solve real-world problems.
 ---
 
 ### 🔨 Languages and Tools:
+### 🔨 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)](https://numpy.org)
@@ -39,6 +40,8 @@ I love exploring new tools and technologies to solve real-world problems.
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ---
 
