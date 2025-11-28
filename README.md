@@ -1,20 +1,5 @@
 <h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?logo=linkedin)](https://www.linkedin.com/in/omar-ahmed/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Omar2023K-orange?logo=kaggle)](https://www.kaggle.com/omar2023k)
-[![GitHub](https://img.shields.io/badge/GitHub-Omar2023K-black?logo=github)](https://github.com/Omar2023K)
-
-I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions. I love exploring new tools and technologies to solve real-world problems.
-
----
-
-<table>
-  <tr>
-    <td>
-
-
-<h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
-
 <table>
   <tr>
     <td>
@@ -26,10 +11,10 @@ I love exploring new tools and technologies to solve real-world problems.
 - 🔭 I’m currently working on **Healthcare Predictive Analytics** project  
 - 🤝 I’m looking to collaborate on interesting **ML / AI projects**  
 - 🌱 I’m currently learning **Deep Learning & Advanced NLP**  
-- 👨🏻‍💻 Most of my projects are available on Github  
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
 - 💬 Ask me about **Python, ML, NLP, Data Analysis**  
-- 📫 Ping me on LinkedIn  
-- 📝 Checkout my resume
+- 📫 Ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
+- 📝 Checkout my [resume](#)
 
     </td>
     <td>
@@ -37,6 +22,8 @@ I love exploring new tools and technologies to solve real-world problems.
     </td>
   </tr>
 </table>
+
+---
 
 ### 🔨 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
