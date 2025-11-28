@@ -1,19 +1,22 @@
-<h1 style="
+<h1 align="center" style="
   font-size: 45px;
   font-weight: bold;
-  animation: bounce 1.2s infinite;
+  background: linear-gradient(90deg,#ff0080,#00bfff,#7cff00);
+  background-size: 300%;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: shine 4s linear infinite;
   text-align:center;
 ">
-  Omar Ahmed
+  Hey 👋, I'm Omar Ahmed!
 </h1>
 
 <style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-15px); }
+@keyframes shine {
+  0% {background-position: 0%;}
+  100% {background-position: 300%;}
 }
 </style>
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-OmarAhmed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ahmed/)
