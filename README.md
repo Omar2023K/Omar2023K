@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=570&lines=Hey+👋+I'm+Omar+Khaled!;Data+Analyst+%7C+Business+Analyst;Welcome+To+My+Profile" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=590&lines=Hey+👋+I'm+Omar+Khaled!;Data+Analyst+%7C+Business+Analyst;Welcome+To+My+Profile" />
 </p>
 
 I am a Data Analyst passionate about transforming raw data into actionable insights and using machine learning and statistical techniques to support business decisions.  
