@@ -1,10 +1,9 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Omar+Khaled!;Data+Scientist+%7C+Data+Analyst;Welcome+To+My+Profile" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Omar+Khaled!;Data+Analyst+%7C+Data+Analyst;Welcome+To+My+Profile" />
 </p>
 
-I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
-I love exploring new tools and technologies to solve real-world problems.
-
+I am a **Data Analyst** passionate about transforming raw data into actionable insights and using machine learning and statistical techniques to support business decisions.  
+With a strong foundation in **data preprocessing, visualization**, and **predictive modeling**, I’m dedicated to creating **data-driven solutions** and leveraging advanced analytics to solve real-world problems.
 ---
 
 <table>
