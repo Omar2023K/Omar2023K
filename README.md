@@ -16,7 +16,7 @@ With a strong foundation in data preprocessing, visualization, and predictive mo
 - 🌱 I’m actively learning **Deep Learning** and exploring **Advanced Natural Language Processing (NLP)** to apply these technologies in solving business problems.
 - 👨🏻‍💻  Most of my projects are available on [Github](httpsgithub.comOmar2023Ktab=repositories)  
 - 💬 Ask me about **Python, ML, NLP, Data Analysis**  
-- 📫 Ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
+- 📫 Ping me on [LinkedIn](www.linkedin.com/in/omarkhaleds )  
 - 📝 Checkout my [resume](#)
 
     </td>
