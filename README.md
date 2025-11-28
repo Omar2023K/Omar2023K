@@ -1,23 +1,18 @@
 <h1 style="
   font-size: 45px;
   font-weight: bold;
-  background: linear-gradient(90deg,#ff0080,#00bfff,#7cff00);
-  background-size: 300%;
-  -webkit-background-clip: text;
-  color: transparent;
-  animation: shine 4s linear infinite;
+  animation: bounce 1.2s infinite;
   text-align:center;
 ">
   Omar Ahmed
 </h1>
 
 <style>
-@keyframes shine {
-  0% {background-position: 0%;}
-  100% {background-position: 300%;}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-15px); }
 }
 </style>
-
 
 
 
