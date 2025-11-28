@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Omar+Ahmed!;Data+Scientist+%7C+ML+Engineer;Welcome+To+My+Profile" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=50&duration=3000&pause=600&color=1E90FF&vCenter=true&center=true&width=700&lines=Hey+👋+I'm+Omar+Ahmed!;Data+Scientist+%7C+ML+Engineer;Welcome+To+My+Profile" 
+  />
 </p>
 
 I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
