@@ -1,21 +1,7 @@
-<p align="center">
-  <svg width="600" height="120">
-    <text x="50%" y="50%" dy=".35em" text-anchor="middle"
-      font-size="50"
-      font-family="Arial Black"
-      fill="#00bfff">
-      Omar Ahmed
-      <animate 
-        attributeName="transform"
-        type="scale"
-        values="1;1.15;0.9;1.1;1"
-        dur="1.5s"
-        repeatCount="indefinite"
-        additive="sum" />
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Omar+Ahmed!;Data+Scientist+%7C+ML+Engineer;Welcome+To+My+Profile" />
 </p>
 
+<p align="center">
 
 I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
 I love exploring new tools and technologies to solve real-world problems.
