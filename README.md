@@ -13,6 +13,15 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
     <td>
 
 
+<h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
+
+<table>
+  <tr>
+    <td>
+
+I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
+I love exploring new tools and technologies to solve real-world problems.
+
 ### 🧐 More About Me:
 - 🔭 I’m currently working on **Healthcare Predictive Analytics** project  
 - 🤝 I’m looking to collaborate on interesting **ML / AI projects**  
@@ -24,11 +33,11 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border:none;">
     </td>
   </tr>
 </table>
----
+
 
 ### 🔨 Languages and Tools:
 [![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org)
