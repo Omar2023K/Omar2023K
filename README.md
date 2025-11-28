@@ -1,11 +1,13 @@
 <h1 align="center">Hey 👋, I'm Omar Ahmed!</h1>
 
+I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
+I love exploring new tools and technologies to solve real-world problems.
+
+
 <table>
   <tr>
     <td>
 
-I am a **Data Science & Machine Learning enthusiast**, passionate about analyzing data, building predictive models, and creating AI-powered solutions.  
-I love exploring new tools and technologies to solve real-world problems.
 
 ### 🧐 More About Me:
 - 🔭 I’m currently working on **Healthcare Predictive Analytics** project  
