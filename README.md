@@ -10,17 +10,25 @@ I am a **Data Science & Machine Learning enthusiast**, passionate about analyzin
 
 ### 🧐 More About Me:
 
+<table>
+  <tr>
+    <td>
+
 - 🔭 &nbsp; I’m currently working on **Healthcare Predictive Analytics** project  
 - 🤝 &nbsp; I’m looking to collaborate on interesting **ML / AI projects**  
 - 🌱 &nbsp; I’m currently learning **Deep Learning & Advanced NLP**  
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Omar2023K?tab=repositories)  
 - 💬 &nbsp; Ask me about **Python, ML, NLP, Data Analysis**  
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/omar-ahmed/)  
-- 📝 &nbsp; Checkout my [resume](#)  
+- 📝 &nbsp; Checkout my [resume](#)
 
-<p align="right">
-  <img src="./giphy.gif" width="330">
-</p>
+    </td>
+    <td>
+      <img src="./giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
